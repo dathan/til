@@ -131,6 +131,16 @@ Learn and retain the details about common auth methods used in mutiple protocols
 * Claim
      > A piece of information asserted about a subject.  A claim is represented as a name/value pair consisting of a Claim Name and a Claim Value.
 
+* Register claim Names
+    > `"iss" (Issuer) Claim` <br/> 
+    > `"sub" (Subject) Claim` <br/> 
+    > `"aud" (Audience) Claim` <br/> 
+    > `"exp" (Expiration Time) Claim` <br/> 
+    > `"nbf" (Not Before) Claim` <br/>
+    > `"iat" (Issued At) Claim` <br/>
+    > `"jti" (JWT ID) Claim` <br/>
+    > `"typ" (Type) Header Parameter` <br/>
+    > `"cty" (Content Type) Header Parameter` <br/>
 
 ## MINDDUMP (Random thoughts to keep focus on learning)
 
