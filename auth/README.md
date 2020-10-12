@@ -7,11 +7,17 @@ Learn and retain the details about common auth methods used in mutiple protocols
 
 ## SUMMARY
 
+OAUTH is an authorization (AUTHZ) frame work with an AUTHN component. JWT is an authentication (AUTHN) framework which is url safe for passing around session information, or object information in a common format. If sharing an applications data use OAUTH 2.0 format. There are RFCs that bridge both formats together. Additionally JWT replaces SAML which is an XML based format for AUTH sharing.
+
 
 
 
 ## QUESTIONS
 
+    * Why are their so many formats?
+    * How do you bridge multiple technologies together?
+    * What are the security concerns?
+    
 
 
 
