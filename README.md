@@ -1,5 +1,5 @@
 # til
-Inspired by @simonw  attempting to retain everything I learn. The method will be to write down what I learn, what questions I have and a summary of what was learned. Based on a blogpost https://vasilishynkarenka.com/learning/
+Inspired by @simonw  attempting to retain everything I learn. The method will be to write down what I learn, what questions I have and a summary of what was learned. <del>Based on a blogpost https://vasilishynkarenka.com/learning/</del> -- I find this to combersome, but will use tidbits.
 
 
 
