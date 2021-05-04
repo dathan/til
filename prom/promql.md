@@ -1,5 +1,5 @@
 
-# Learn and retain the details about PROMQL
+# PROM types
 
 * The officle resource on promql is the following [location](https://prometheus.io/docs/prometheus/latest/querying/basics/)
 
