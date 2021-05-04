@@ -1,22 +1,5 @@
-# Purpose
 
-Learn and retain the details about PROMQL
-
-<p>Started `2020-10-20 18:18:57`</p>
-
-
-## SUMMARY
-
-
-
-
-
-## QUESTIONS
-
-
-
-
-## LEARNING
+# Learn and retain the details about PROMQL
 
 * The officle resource on promql is the following [location](https://prometheus.io/docs/prometheus/latest/querying/basics/)
 
