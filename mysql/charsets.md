@@ -4,6 +4,8 @@ Not only does the storage type define how an UNIQUE INDEX works, but so does
 collation
 
 ```
+mysql> SET NAMES utf8mb4 COLLATE utf8mb4_bin;
+Query OK, 0 rows affected (0.01 sec)
 mysql> SELECT 'e' = 'é';
 +------------+
 | 'e' = 'é'  |
